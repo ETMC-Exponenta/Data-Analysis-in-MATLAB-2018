@@ -27,3 +27,7 @@
 ### [6. Анализ инженерных данных в MATLAB](http://www.youtube.com/watch?v=8q57MA7qkcc)
 
 [![Анализ данных в MATLAB: 06. Инженерные данные](http://img.youtube.com/vi/8q57MA7qkcc/mqdefault.jpg)](http://www.youtube.com/watch?v=8q57MA7qkcc)
+
+### [7. Визуализация в MATLAB](http://www.youtube.com/watch?v=BZXTysdoC7I)
+
+[![Анализ данных в MATLAB: 07. Визуализация](http://img.youtube.com/vi/BZXTysdoC7I/mqdefault.jpg)](http://www.youtube.com/watch?v=BZXTysdoC7I)
