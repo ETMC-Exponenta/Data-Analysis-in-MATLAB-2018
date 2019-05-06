@@ -1,6 +1,7 @@
-# [Скачать все материалы](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+# Ссылки на скачивание
 
-Корректная работа гарантируется в MATLAB **R2018b**
+[**Скачать все материалы для R2018b**](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+
 
 # Серия видео "Анализ данных в MATLAB"
 
