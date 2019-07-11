@@ -1,22 +1,29 @@
-# Как скачать
+# Материалы к серии “Анализ данных в MATLAB”
 
-### Скачать все материалы напрямую в MATLAB R2019a
+## Как скачать
 
-Выполните
+#### Скачать все материалы напрямую в MATLAB
+
+Выполните в MATLAB
+
 ```MATLAB
 eval(webread('https://exponenta.ru/install/data18'))
 ```
 
-### Альтернатива: скачать одним архивом
+#### Альтернатива: скачать одним архивом
 
 [Архив для R2019a](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
 
 [Архив для R2018b (устарел)](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/v1.0.zip)
 
 
-# Серия видео "Анализ данных в MATLAB"
+## Содержание
 
-### [1. Введение - анализ данных в MATLAB](http://www.youtube.com/watch?v=1d823SnprCY)
+### 1. Введение - анализ данных в MATLAB
+
+[Посмотреть отчет](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/blob/master/1_Intro/analysis_intro.pdf)
+
+[Ссылка на видео](http://www.youtube.com/watch?v=1d823SnprCY)
 
 [![Анализ данных в MATLAB: 01. Введение](http://img.youtube.com/vi/1d823SnprCY/mqdefault.jpg)](http://www.youtube.com/watch?v=1d823SnprCY)
 
