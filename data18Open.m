@@ -3,7 +3,7 @@ if ~ispref('data18', 'root')
     root = pwd;
     setpref('data18', 'root', root);
 else
-    root = getpref('data2018', 'root');
+    root = getpref('data18', 'root');
 end
 if nargin < 1
     spath = 'content';
