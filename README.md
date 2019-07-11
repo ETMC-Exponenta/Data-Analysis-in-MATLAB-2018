@@ -1,5 +1,9 @@
 # Материалы к серии “Анализ данных в MATLAB”
 
+[Серия роликов](https://www.youtube.com/playlist?list=PLmu_y3-DV2_nPReLswuy-4C-aA6lWcgM6) посвящена демонстрации возможностей MATLAB в части анализа данных.
+
+Здесь вы можете скачать все разобранные в видео примеры, поиграться с ними и адаптировать под себя.
+
 ## Как скачать
 
 #### Скачать все материалы напрямую в MATLAB
@@ -23,7 +27,7 @@ eval(webread('https://exponenta.ru/install/data18'))
 
 [Посмотреть отчет](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/blob/master/1_Intro/analysis_intro.pdf)
 
-[Ссылка на видео](http://www.youtube.com/watch?v=1d823SnprCY)
+[Посмотреть видео](http://www.youtube.com/watch?v=1d823SnprCY)
 
 [![Анализ данных в MATLAB: 01. Введение](http://img.youtube.com/vi/1d823SnprCY/mqdefault.jpg)](http://www.youtube.com/watch?v=1d823SnprCY)
 
