@@ -1,0 +1,163 @@
+Latitude;Longitude;Year;Month;Day;Hour;Minute;Second;ValidityCode;Validity;CauseCode;Cause;EarthquakeMagnitude;Country;Location;MaxHeight;IidaMagnitude;Intensity;NumDeaths;DescDeaths
+-3.8;128.3;1950;10;8;3;23;;2;questionable tsunami;1;Earthquake;7.6;INDONESIA;JAVA TRENCH. INDONESIA;2.8;1.5;1.5;;
+19.5;-156;1951;8;21;10;57;;4;definite tsunami;1;Earthquake;6.9;USA;HAWAII;3.6;1.8;;;
+-9.02;157.95;1951;12;22;;;;2;questionable tsunami;6;Volcano;;SOLOMON ISLANDS;KAVACHI;6;2.6;;;
+42.15;143.85;1952;3;4;1;22;41;4;definite tsunami;1;Earthquake;8.1;JAPAN;SE. HOKKAIDO ISLAND;6.5;2.7;2;33;1
+19.1;-155;1952;3;17;3;58;;4;definite tsunami;1;Earthquake;4.5;USA;HAWAII;1;;;;
+43.1;-82.4;1952;5;6;;;;1;very doubtful tsunami;9;Meteorological;;USA;LAKE HURON. MI;1.52;;;;
+52.75;159.5;1952;11;4;16;58;;4;definite tsunami;1;Earthquake;9;RUSSIA;KAMCHATKA;18;4.2;4;2236;3
+50;156.5;1953;3;18;;;;3;probable tsunami;1;Earthquake;5.8;RUSSIA;N. KURIL ISLANDS;1.5;0.6;;;
+-2.4;147.4;1953;6;27;;;;3;probable tsunami;6;Volcano;;PAPUA NEW GUINEA;BISMARCK SEA;1.4;0.5;1;;
+-18.3;178.2;1953;9;14;0;26;36;4;definite tsunami;3;Earthquake and Landslide;6.8;FIJI;FIJI ISLANDS;3;1;1.5;;
+34;141.7;1953;11;25;17;48;;4;definite tsunami;1;Earthquake;7.4;JAPAN;KASHIMA. JAPAN;3;1.6;1.5;;
+41.7;-86.883;1954;6;26;;;;1;very doubtful tsunami;9;Meteorological;;USA;MICHIGAN CITY. IN (LAKE MICHIGAN);3;;;7;1
+67.8;-32.283;1954;10;;;;;2;questionable tsunami;0;Unknown Cause;;GREENLAND;APUTITEQ POINT;18.28;4.2;;;
+-30;-72;1955;4;19;20;24;;4;definite tsunami;1;Earthquake;7.1;CHILE;CENTRAL CHILE;1;;;3;1
+39.5;23;1956;11;2;;;;3;probable tsunami;1;Earthquake;5.8;GREECE;THESSALONIKI (SALONICA). GREECE;1.2;0.3;3;;
+51.292;-175.629;1957;3;9;14;22;31.9;4;definite tsunami;1;Earthquake;9.1;USA;ANDREANOF ISLANDS. AK;15.24;3.9;3.5;;
+-1.5;137;1957;6;22;23;50;23;3;probable tsunami;1;Earthquake;7.5;INDONESIA;NW. IRIAN JAYA;1.8;0.8;;;
+16.5;-99;1957;7;28;8;40;;4;definite tsunami;1;Earthquake;7.9;MEXICO;S. MEXICO;2.5;1.3;1.5;;
+1.2;-79.5;1958;1;19;14;7;;4;definite tsunami;1;Earthquake;7.5;ECUADOR;COLOMBIA-ECUADOR;1;;1.5;;
+-4.5;104;1958;4;22;;;;2;questionable tsunami;1;Earthquake;6.5;INDONESIA;SW. SUMATRA;1;;;;
+58.34;-136.52;1958;7;10;6;15;53.6;4;definite tsunami;3;Earthquake and Landslide;8.3;USA;SE. ALASKA. AK;524.26;4.6;5;5;1
+44.53;148.54;1958;11;6;22;58;8.6;4;definite tsunami;1;Earthquake;8.3;RUSSIA;S. KURIL ISLANDS;5;2;2.5;;
+44.2;148.8;1958;11;12;20;23;;2;questionable tsunami;1;Earthquake;7;RUSSIA;S. KURIL ISLANDS;1;;-1;;
+53.4;159.8;1959;5;4;7;16;;4;definite tsunami;1;Earthquake;8.2;RUSSIA;KAMCHATKA;2;1;1;;
+-7.5;156;1959;8;17;21;4;40;4;definite tsunami;0;Unknown Cause;7.3;SOLOMON ISLANDS;SOLOMON ISLANDS;2.4;1.3;;;
+44.712;-111.215;1959;8;18;6;37;13.5;4;definite tsunami;3;Earthquake and Landslide;7.5;USA;HEGBEN LAKE. MONTANA;1;;;;
+-15.75;-72.75;1960;1;13;15;40;34;4;definite tsunami;1;Earthquake;7.8;PERU;AREQUIPA;5.7;2.6;3;;
+39.8;143.4;1960;3;20;17;7;;4;definite tsunami;1;Earthquake;7.7;JAPAN;SANRIKU;1;;-2;;
+39.4;143.7;1960;3;23;0;23;;4;definite tsunami;1;Earthquake;6.7;JAPAN;SANRIKU;1.5;0.6;-2.5;;
+-39.5;-74.5;1960;5;22;19;11;17;4;definite tsunami;1;Earthquake;9.5;CHILE;CENTRAL CHILE;25;4.6;4;1260;3
+-6.8;-80.7;1960;11;20;22;1;56.4;4;definite tsunami;1;Earthquake;6.8;PERU;PERU;9;3.2;2.5;66;2
+43.2;147.9;1961;2;12;21;53;;4;definite tsunami;1;Earthquake;6.6;RUSSIA;S. KURIL ISLANDS;1;;-0.5;;
+-18.5;168.5;1961;7;23;21;51;7.5;4;definite tsunami;1;Earthquake;7;VANUATU;VANUATU ISLANDS;1.5;;-0.5;;
+-9.9;160.5;1961;8;1;5;39;53.2;2;questionable tsunami;1;Earthquake;6.6;SOLOMON ISLANDS;SOLOMON SEA;1;;;;
+38;142.8;1962;4;12;0;53;;4;definite tsunami;1;Earthquake;6.8;JAPAN;SANRIKU;1;;-2;;
+38.42;22.05;1963;2;2;;;;;;8;Landslide;;GREECE;CORINTH GULF;3;;;;
+44.81;149.54;1963;10;13;5;17;55.8;4;definite tsunami;1;Earthquake;8.5;RUSSIA;S. KURIL ISLANDS;4.5;2.3;2.5;;
+44.1;150.1;1963;10;20;0;53;;4;definite tsunami;1;Earthquake;6.7;RUSSIA;S. KURIL ISLANDS;15;3.9;3;;
+-24.8;-176.6;1963;12;18;0;30;;2;questionable tsunami;1;Earthquake;7.2;TONGA;TONGA TRENCH;1;;;;
+61.1;-147.5;1964;3;28;3;36;14;4;definite tsunami;3;Earthquake and Landslide;9.2;USA;PRINCE WILLIAM SOUND. AK;67;6.1;5;221;3
+38.65;139.2;1964;6;16;4;1;44.3;4;definite tsunami;1;Earthquake;7.5;JAPAN;NW. HONSHU ISLAND;5.8;2.7;2;26;1
+51.29;178.55;1965;2;4;5;1;21.6;4;definite tsunami;1;Earthquake;8.7;USA;RAT ISLANDS. ALEUTIAN ISLANDS. AK;10.7;3.3;2.5;;
+38.4;22.4;1965;7;6;3;18;42.7;1;very doubtful tsunami;1;Earthquake;6.9;GREECE;NORTH CORINTH GULF;3;4.3;2;;
+-15.8;167.2;1965;8;11;22;31;45.9;4;definite tsunami;1;Earthquake;7;VANUATU;VANUATU ISLANDS;7;2.8;2.5;;
+-15.9;167.6;1965;8;13;12;40;;3;probable tsunami;1;Earthquake;7;VANUATU;VANUATU ISLANDS;2;1;1.5;;
+-10.3;160.8;1966;6;15;0;59;;3;probable tsunami;1;Earthquake;7.6;SOLOMON ISLANDS;SOLOMON ISLANDS;1.4;0.5;;;
+-10.7;-78.8;1966;10;17;21;42;;4;definite tsunami;1;Earthquake;8.1;PERU;PERU;3;1.6;1.5;;
+-25.5;-70.6;1966;12;28;8;18;;4;definite tsunami;1;Earthquake;7.8;CHILE;N. CHILE;1;;0.5;;
+-11.8;166.5;1966;12;31;18;23;3.9;4;definite tsunami;1;Earthquake;7.5;SOLOMON ISLANDS;SANTA CRUZ ISLANDS;2;;;;
+-11.3;164.8;1966;12;31;22;15;14;;;;;7.3;SOLOMON ISLANDS;SANTA CRUZ ISLANDS;1.5;;;;
+-11.8;166.8;1967;1;1;;;;4;definite tsunami;1;Earthquake;8.1;SOLOMON ISLANDS;SOLOMON ISLANDS;2;1;;;
+5.5;97.3;1967;4;12;4;51;50.2;3;probable tsunami;1;Earthquake;6.1;INDONESIA;NORTHEAST SUMATRA;2;1;1.5;;
+-10.6;-79.8;1967;9;3;;;;4;definite tsunami;1;Earthquake;7;PERU;PERU;2;1;1.5;;
+39.4;24.9;1968;2;19;;;;3;probable tsunami;1;Earthquake;7.1;GREECE;LEMNOS ISLAND. NORTH AEGEAN SEA;1.2;0.3;3;;
+32.3;132.5;1968;4;1;0;42;;4;definite tsunami;1;Earthquake;7.5;JAPAN;SEIKAIDO;2.4;1.3;1.5;;
+40.8;143.2;1968;5;16;0;48;55.4;4;definite tsunami;1;Earthquake;8.2;JAPAN;OFF EAST COAST OF HONSHU ISLAND;6;2.3;-0.5;;1
+39.4;143.1;1968;6;12;13;41;;4;definite tsunami;1;Earthquake;7.2;JAPAN;SANRIKU;3;1.6;;;
+0.2;119.8;1968;8;14;22;14;19.4;4;definite tsunami;1;Earthquake;7.8;INDONESIA;BANDA SEA;10;3.3;3;200;3
+15.6;-92.6;1968;9;25;;;;1;very doubtful tsunami;1;Earthquake;7;MEXICO;S. MEXICO-GUATEMALA-NICARAGUA;2;;1;;
+-3.1;118.9;1969;2;23;0;36;56.6;4;definite tsunami;1;Earthquake;6.9;INDONESIA;MAKASSAR STRAIT;4;2;2;600;3
+43.6;147.9;1969;8;11;21;26;36;4;definite tsunami;1;Earthquake;8.2;RUSSIA;S. KURIL ISLANDS;5;1.4;2;;
+57.7;163.6;1969;11;22;23;9;37;4;definite tsunami;1;Earthquake;7.7;RUSSIA;KAMCHATKA;15;3.9;3;;
+15.8;121.7;1970;4;7;5;34;;3;probable tsunami;1;Earthquake;6.5;PHILIPPINES;PHILIPPINE SEA;2;1;1;;
+-9.2;-78.8;1970;5;31;20;23;27.3;4;definite tsunami;1;Earthquake;7.9;PERU;PERU;1.8;0.8;;;
+-4.9;145.5;1970;10;31;17;53;9.3;4;definite tsunami;1;Earthquake;7;PAPUA NEW GUINEA;PAPUA NEW GUINEA;3;0.3;0.5;3;1
+-32.5;-71.2;1971;7;9;3;3;18.7;3;probable tsunami;1;Earthquake;7.5;CHILE;CENTRAL CHILE;1.2;0.3;;;
+-5.5;153.9;1971;7;14;6;11;29.1;4;definite tsunami;1;Earthquake;7.9;PAPUA NEW GUINEA;BISMARCK SEA;3;1.6;1;2;1
+-4.9;153.2;1971;7;26;1;23;21.3;4;definite tsunami;1;Earthquake;7.9;PAPUA NEW GUINEA;BISMARCK SEA;3;3.3;1.5;;
+46.5;141.2;1971;9;5;18;35;25;4;definite tsunami;1;Earthquake;7.1;RUSSIA;TATAR STRAIT;2;;;;
+-6.5;146.6;1971;9;25;4;36;14;2;questionable tsunami;3;Earthquake and Landslide;7;PAPUA NEW GUINEA;BISMARCK SEA;1.8;0.8;0.5;;
+-6.7;147;1972;8;26;8;15;;1;very doubtful tsunami;8;Landslide;;PAPUA NEW GUINEA;W. SOLOMON SEA;1.5;0.6;;;
+18.48;-103;1973;1;30;21;1;12.5;4;definite tsunami;1;Earthquake;7.5;MEXICO;S. MEXICO;1.16;0.1;;;
+50.5;156.6;1973;2;28;6;37;49.5;4;definite tsunami;1;Earthquake;7.2;RUSSIA;N. KURIL ISLANDS;1.5;0.6;0.5;;
+43.2;145.8;1973;6;17;3;55;2.9;4;definite tsunami;1;Earthquake;7.7;JAPAN;HOKKAIDO ISLAND;4.5;2.2;1;;
+-7.5;155.9;1974;1;31;23;30;5.3;4;definite tsunami;1;Earthquake;7;SOLOMON ISLANDS;SOLOMON ISLANDS;1.5;2.2;1;;
+-7.4;155.6;1974;2;1;3;12;33.1;4;definite tsunami;1;Earthquake;7.1;SOLOMON ISLANDS;SOLOMON ISLANDS;4.5;2.2;2;;
+-12.27;-77.79;1974;10;3;14;21;29.1;4;definite tsunami;1;Earthquake;8.1;PERU;PERU;1.8;0.8;1;;
+54.083;-128.633;1975;4;27;;;;4;definite tsunami;8;Landslide;;CANADA;KITIMAT INLET. BRITISH COLUMBIA;8.2;;;;
+35.997;-17.649;1975;5;26;9;11;51.5;4;definite tsunami;1;Earthquake;7.9;ATLANTIC OCEAN;ATLANTIC OCEAN;2.1;;;;
+43.024;147.734;1975;6;10;13;47;14.5;4;definite tsunami;1;Earthquake;7;RUSSIA;S. KURIL ISLANDS;5.5;2.3;2;;
+-6.59;155.054;1975;7;20;14;37;39.9;4;definite tsunami;1;Earthquake;7.9;PAPUA NEW GUINEA;SOLOMON SEA;2;1;1;;
+12.54;125.993;1975;10;31;8;28;2.6;4;definite tsunami;1;Earthquake;7.2;PHILIPPINES;PHILIPPINE TRENCH;4;-0.7;-1.5;1;1
+19.334;-155.024;1975;11;29;14;47;40.4;4;definite tsunami;3;Earthquake and Landslide;7.1;USA;HAWAII;14.3;3;3;2;1
+6.262;124.023;1976;8;16;16;11;7.3;4;definite tsunami;1;Earthquake;8.1;PHILIPPINES;MORO GULF;4.48;2.3;2.5;2349;3
+-11.085;118.464;1977;8;19;6;8;55.2;4;definite tsunami;1;Earthquake;8;INDONESIA;SUNDA ISLANDS;15;3.9;3;189;3
+-10.233;-78.52;1978;5;20;13;10;31.1;4;definite tsunami;1;Earthquake;5.5;PERU;PERU;1.2;0.3;;;
+38.19;142.03;1978;6;12;8;14;26.4;4;definite tsunami;1;Earthquake;7.7;JAPAN;SANRIKU;1;;0.5;;
+16.01;-96.591;1978;11;29;19;52;47.6;2;questionable tsunami;1;Earthquake;7.7;MEXICO;MEXICO;1.5;0.6;;;
+17.813;-101.276;1979;3;14;11;7;16.3;4;definite tsunami;1;Earthquake;7.6;MEXICO;S. MEXICO;1.3;-3.3;;;
+-1.679;136.04;1979;9;12;5;17;51.4;4;definite tsunami;1;Earthquake;7.9;INDONESIA;IRIAN JAYA;2;1;;100;2
+43.7;7.25;1979;10;16;13;57;;4;definite tsunami;8;Landslide;;FRANCE;FRENCH RIVIERA (LIGURIAN SEA);10;1.6;;6;1
+1.598;-79.358;1979;12;12;7;59;3.3;4;definite tsunami;1;Earthquake;7.7;COLOMBIA;COLUMBIA: OFF SHORE. PACIFIC OCEAN;6;2.3;2.5;36;1
+46.2;-122.18;1980;5;18;;;;4;definite tsunami;6;Volcano;;USA;WASHINGTON;250;;;;
+42.158;142.361;1982;3;21;2;32;7.7;4;definite tsunami;1;Earthquake;6.9;JAPAN;HOKKAIDO ISLAND;1.3;0.4;;;
+-4.056;127.924;1983;3;12;1;36;35.8;4;definite tsunami;1;Earthquake;6.9;INDONESIA;BANDA SEA;3;1.6;1.5;;
+40.462;139.102;1983;5;26;2;59;59.6;4;definite tsunami;1;Earthquake;7.8;JAPAN;NOSHIRO. JAPAN;14.5;3.9;2;100;2
+41.346;139.099;1983;6;21;6;25;27.3;4;definite tsunami;1;Earthquake;6.9;JAPAN;N. HONSHU ISLAND;1;;;;
+-6.852;72.11;1983;11;30;17;46;0.6;4;definite tsunami;1;Earthquake;7.7;INDIA;INDIAN OCEAN;1.5;-1.3;;;
+-33.135;-71.871;1985;3;3;22;47;7.2;4;definite tsunami;1;Earthquake;8;CHILE;CENTRAL CHILE;3;1.6;;;
+-9.245;114.185;1985;4;13;1;6;0.1;2;questionable tsunami;1;Earthquake;6.2;INDONESIA;BALI ISLAND. INDONESIA;2;;;;
+-4.439;152.828;1985;7;3;4;36;51.7;2;questionable tsunami;1;Earthquake;7.3;PAPUA NEW GUINEA;NEW IRELAND;1.3;0.4;;;
+18.19;-102.533;1985;9;19;13;17;47.3;4;definite tsunami;1;Earthquake;8;MEXICO;MEXICO;3;1.6;;;
+17.802;-101.647;1985;9;21;1;37;13.4;4;definite tsunami;1;Earthquake;7.6;MEXICO;MEXICO;2.5;0.3;;;
+51.52;-174.776;1986;5;7;22;47;10.8;4;definite tsunami;1;Earthquake;8;USA;ANDREANOF ISLANDS. AK;1.4;-0.1;;;
+-6.088;147.689;1987;2;8;18;33;58.3;4;definite tsunami;1;Earthquake;7.4;PAPUA NEW GUINEA;SOLOMON SEA;1.5;1;;;
+38.41;14.97;1988;4;20;5;30;;4;definite tsunami;8;Landslide;;ITALY;LA FOSSA VOLCANO. VULCANO IS.;5.5;;;;
+18.606;121.013;1988;6;24;2;6;26.3;4;definite tsunami;1;Earthquake;5.4;PHILIPPINES;PHILIPPINES: NORTH OF LUZON;1.03;;;;
+9.685;-83.073;1991;4;22;21;56;51.8;4;definite tsunami;1;Earthquake;7.7;COSTA RICA;LIMON. PANDORA;3;1;;2;1
+40.368;-124.316;1992;4;25;18;6;4.2;4;definite tsunami;1;Earthquake;7.2;USA;CAPE MENDOCINO. CA;1.8;0.8;0.5;;
+11.742;-87.34;1992;9;2;0;16;1.6;4;definite tsunami;1;Earthquake;7.7;NICARAGUA;NICARAGUA;10;3.3;2.8;168;3
+-8.48;121.896;1992;12;12;5;29;26.3;4;definite tsunami;1;Earthquake;7.8;INDONESIA;FLORES SEA;26.2;4.7;2.7;2080;3
+42.851;139.197;1993;7;12;13;17;11.9;4;definite tsunami;1;Earthquake;7.7;JAPAN SEA;SEA OF JAPAN;31.7;5;3.1;330;3
+12.982;144.801;1993;8;8;8;34;24.9;4;definite tsunami;1;Earthquake;7.8;USA TERRITORY;GUAM. MARIANA ISLANDS;2.1;-1;;;
+1.015;127.733;1994;1;21;2;24;29.9;4;definite tsunami;1;Earthquake;7;INDONESIA;HALMAHERA;2;1;1.5;;
+-10.477;112.835;1994;6;2;18;17;34;4;definite tsunami;1;Earthquake;7.8;INDONESIA;JAVA. INDONESIA;13;3.7;2.5;222;3
+-10.362;112.892;1994;6;3;21;6;59.8;4;definite tsunami;1;Earthquake;6.6;INDONESIA;JAVA. INDONESIA;3.7;;;;
+-10.777;133.366;1994;6;4;0;57;50.6;4;definite tsunami;1;Earthquake;6.5;TIMOR SEA;TIMOR SEA;3;;;;
+-4.238;152.214;1994;9;19;;;;4;definite tsunami;6;Volcano;;PAPUA NEW GUINEA;PAPUA NEW GUINEA;1.2;1.2;;;
+43.773;147.321;1994;10;4;13;22;55.8;4;definite tsunami;1;Earthquake;8.3;RUSSIA;S. KURIL ISLANDS;11;2.3;2.6;;
+-1.258;127.98;1994;10;8;21;44;7.2;4;definite tsunami;1;Earthquake;6.8;INDONESIA;HALMAHERA;3;1.6;1.5;1;1
+59.5;-135.3;1994;11;4;4;12;;4;definite tsunami;8;Landslide;;USA;SKAGWAY. AK;7.62;3.5;2.5;1;1
+13.525;121.067;1994;11;14;19;15;30.6;4;definite tsunami;1;Earthquake;7.1;PHILIPPINES;PHILIPPINE ISLANDS;7.3;2.9;2.1;62;2
+40.525;143.419;1994;12;28;12;19;23;4;definite tsunami;1;Earthquake;7.8;JAPAN;TOHUKU. JAPAN;1.1;;;3;1
+-8.378;125.127;1995;5;14;11;33;18.8;4;definite tsunami;3;Earthquake and Landslide;6.9;INDONESIA;TIMOR;4;2;1.5;11;1
+-23.34;-70.294;1995;7;30;5;11;23.6;4;definite tsunami;1;Earthquake;8;CHILE;N. CHILE;3;1.6;1.5;;
+19.055;-104.205;1995;10;9;15;35;53.9;4;definite tsunami;1;Earthquake;8;MEXICO;MEXICO;5.1;2.3;2.5;1;1
+27.929;130.175;1995;10;18;10;37;26.3;4;definite tsunami;1;Earthquake;7.1;JAPAN;RYUKYU ISLANDS;2.6;0.8;1.5;;
+28.094;130.148;1995;10;19;2;41;36.1;4;definite tsunami;3;Earthquake and Landslide;6.8;JAPAN;RYUKYU ISLANDS;1.5;0.6;0.5;;
+44.663;149.3;1995;12;3;18;1;8.9;4;definite tsunami;1;Earthquake;7.9;RUSSIA;S. KURIL ISLANDS;1.1;0.1;0.5;;
+0.729;119.931;1996;1;1;8;5;10.8;4;definite tsunami;1;Earthquake;7.9;INDONESIA;SULAWESI;3.4;2.3;1.8;9;1
+38.367;22.083;1996;1;1;;;;4;definite tsunami;8;Landslide;;GREECE;W. CORINTH GULF;2;;2;;
+54.45;159.318;1996;1;2;15;40;;4;definite tsunami;6;Volcano;;RUSSIA;KARYMSKOYE. KAMCHATKA. RUSSIA;30;;;;
+-0.891;136.952;1996;2;17;5;59;30.5;4;definite tsunami;1;Earthquake;8.2;INDONESIA;IRIAN JAYA;7.7;2.9;1.8;110;3
+-9.593;-79.587;1996;2;21;12;51;1.3;4;definite tsunami;1;Earthquake;7.5;PERU;PERU;5.1;2.3;1.9;12;1
+31.885;131.468;1996;10;19;14;44;40.7;4;definite tsunami;1;Earthquake;6.7;JAPAN;KYUSHU ISLAND;1.1;0.1;0.5;;
+-12.584;166.676;1997;4;21;12;2;26.4;4;definite tsunami;1;Earthquake;7.7;SOLOMON ISLANDS;SANTA CRUZ IS. VANUATU;3;-2.3;-2;;
+54.841;162.035;1997;12;5;11;26;54.6;4;definite tsunami;1;Earthquake;7.8;RUSSIA;KAMCHATKA;1.5;0.6;0.5;;
+54.841;162.035;1997;12;14;3;30;;3;probable tsunami;8;Landslide;;RUSSIA;KAMCHATKA;8;3;2;;
+16.72;-62.18;1997;12;26;8;;;4;definite tsunami;7;Volcano and Landslide;;MONTSERRAT;WHITE RIVER VALLEY;3;;;;
+-2.961;141.926;1998;7;17;8;49;13.2;4;definite tsunami;3;Earthquake and Landslide;7;PAPUA NEW GUINEA;PAPUA NEW GUINEA;15;;;2183;3
+-2.071;124.891;1998;11;29;14;10;31.9;2;questionable tsunami;1;Earthquake;7.7;INDONESIA;TALIABU ISLAND. INDONESIA;2.75;;;;
+16.722;-62.18;1999;1;20;;;;4;definite tsunami;6;Volcano;;MONTSERRAT;SOUFRIERE HILLS VOLCANO;2;;;;
+40.748;29.864;1999;8;17;0;1;39.1;4;definite tsunami;1;Earthquake;7.6;TURKEY;KOCAELI. TURKEY;2.52;;;150;3
+-16.423;168.214;1999;11;26;13;21;15.5;4;definite tsunami;1;Earthquake;7.5;VANUATU;VANUATU ISLANDS;6;;;5;1
+5.1;120.15;2000;1;26;;;;0;erroneous entry;9;Meteorological;;PHILIPPINES;TAWI-TAWI. PHILIPPINES;20;;;;
+-1.105;123.573;2000;5;4;4;21;16.2;4;definite tsunami;1;Earthquake;7.6;INDONESIA;SULAWESI;6;;;;
+34.5;-120.65;2000;11;4;19;30;;1;very doubtful tsunami;8;Landslide;;USA;POINT ARGUELLO. CA;7;;;;
+-3.98;152.169;2000;11;16;4;54;56.7;4;definite tsunami;1;Earthquake;8;PAPUA NEW GUINEA;NEW IRELAND;1;;;;
+-16.265;-73.641;2001;6;23;20;33;14.1;4;definite tsunami;1;Earthquake;8.4;PERU;PERU;7;;;26;1
+-17.6;167.856;2002;1;2;17;22;48.7;4;definite tsunami;1;Earthquake;7.2;VANUATU;VANUATU ISLANDS;3;-4.64;-4.14;;
+6.033;124.249;2002;3;5;21;16;9.1;4;definite tsunami;1;Earthquake;7.5;PHILIPPINES;MINDANAO ISLAND. PHILIPPINES;3;;;;
+-3.302;142.945;2002;9;8;18;44;23.7;4;definite tsunami;1;Earthquake;7.6;PAPUA NEW GUINEA;BISMARCK SEA;4;0.58;1.08;;
+-1.757;134.297;2002;10;10;10;50;20.5;2;questionable tsunami;1;Earthquake;7.6;INDONESIA;IRIAN JAYA;5;2.32;2.82;;
+36.964;3.634;2003;5;21;18;44;20.1;4;definite tsunami;1;Earthquake;6.8;ALGERIA;N. ALGERIA;2;1;1.5;;
+16.722;-62.18;2003;7;12;;;;4;definite tsunami;6;Volcano;;MONTSERRAT;SOUFRIERE HILLS VOLCANO;4;;;;
+41.815;143.91;2003;9;25;19;50;6.3;4;definite tsunami;1;Earthquake;8.3;JAPAN;HOKKAIDO ISLAND;4;;;;
+3.295;95.982;2004;12;26;0;58;53.4;4;definite tsunami;1;Earthquake;9;INDONESIA;OFF W. COAST OF SUMATRA;50;;;297248;3
+2.085;97.108;2005;3;28;16;9;36.5;4;definite tsunami;1;Earthquake;8.7;INDONESIA;INDONESIA;3;;;10;1
+-3.595;127.214;2006;3;14;6;57;33.8;4;definite tsunami;1;Earthquake;6.7;INDONESIA;SERAM ISLAND;3.5;;;4;1
+16.722;-62.18;2006;5;20;11;20;;4;definite tsunami;6;Volcano;;MONTSERRAT;SOUFRIERE HILLS VOLCANO;1;;;;
+-9.254;107.411;2006;7;17;8;19;28.7;4;definite tsunami;1;Earthquake;7.7;INDONESIA;JAVA. INDONESIA;10;;;664;3
+46.592;153.266;2006;11;15;11;14;13.5;4;definite tsunami;1;Earthquake;8.3;RUSSIA;S. KURIL ISLANDS;1.8;;;;

@@ -1,0 +1,1 @@
+web('https://www.mathworks.com/products/matlab/plot-gallery.html', '-browser')
