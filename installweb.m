@@ -10,3 +10,4 @@ movefile(instvar.DName, instvar.Name);
 cd(instvar.Name)
 disp('Install complete, have fun!')
 clear instvar
+data18Open
