@@ -1,4 +1,4 @@
-# Ссылки на скачивание
+# Как скачать
 
 ### Скачать все материалы напрямую в MATLAB R2019a
 
@@ -7,9 +7,11 @@
 eval(webread('https://exponenta.ru/install/data18'))
 ```
 
-### [Альтернатива: скачать архив для R2019a](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+### Альтернатива: скачать одним архивом
 
-#### [Альтернатива: Скачать архив для R2018b (устарел)](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/v1.0.zip)
+[Архив для R2019a](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+
+[Архив для R2018b (устарел)](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/v1.0.zip)
 
 
 # Серия видео "Анализ данных в MATLAB"
