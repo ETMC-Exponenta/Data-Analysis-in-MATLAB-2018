@@ -8,6 +8,7 @@ end
 if nargin < 1
     spath = 'content';
 end
+addpath(root);
 dpath = fullfile(root, fileparts(spath));
 spath = fullfile(root, spath);
 cd(dpath);

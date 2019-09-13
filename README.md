@@ -16,7 +16,9 @@ eval(webread('https://exponenta.ru/install/data18'))
 
 #### Альтернатива: скачать одним архивом
 
-[Архив для R2019a](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+[Архив для R2019b](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/master.zip)
+
+[Архив для R2019a (устарел)](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/v1.2.zip)
 
 [Архив для R2018b (устарел)](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/archive/v1.0.zip)
 
@@ -79,3 +81,12 @@ eval(webread('https://exponenta.ru/install/data18'))
 [Посмотреть видео](http://www.youtube.com/watch?v=BZXTysdoC7I)
 
 [Посмотреть материалы](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/blob/master/7_Visualization/vis_data.pdf)
+
+
+### 8. Обработка данных с помощью Live Tasks
+
+В релизе R2019b появились так называемые "живые" задачи, призванные ускорить обработку данных с помощью графических интерфейсов, встраиваемых непосредственно в Live Script.
+
+Демка посвящена Live Tasks а также демонстрирует автоматизированную обработку текстовых файлов из папки с помощью `datastore`
+
+[Посмотреть материалы](https://github.com/ETMC-Exponenta/Data-Analysis-in-MATLAB-2018/blob/master/8_Live_Tasks/live_tasks_processing.pdf)
